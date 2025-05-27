@@ -1,5 +1,5 @@
-# CSCI564A_HW
-ADVANCED COMPUTER ARCHITECTURE homework.
+# ACA_HW
+ADVANCED COMPUTER ARCHITECTURE homework. To avoid violating the policy I changed the name of this repo.
 
 I can't make sure they are correct.
 
